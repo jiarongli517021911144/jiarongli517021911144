@@ -51,6 +51,8 @@ I hold both my bachelor's and master's degrees from **Shanghai Jiao Tong Univers
 
 Contribution details are available directly on [my GitHub profile](https://github.com/jiarongli517021911144).
 
+I also follow upstream work in the open-source agent ecosystem, including [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) and [Microsoft AutoGen](https://github.com/microsoft/autogen).
+
 ## Outside the terminal
 
 Strength training · Reading · Harmonica
