@@ -28,15 +28,16 @@ The tone is precise, confident, and technical without making unsupported claims.
 
 ## Project curation
 
-Existing work gets priority. Public agent projects may be forked only when they are relevant to the narrative and useful for future contributions. Planned candidates include OpenAI Agents Python, Microsoft AutoGen, CrewAI, and a lightweight self-hosted agent project. Forks will be labeled by their upstream project and kept separate from original work.
+Existing work gets priority. At most 3 public agent projects may be forked, and only when the upstream is active, relevant, and permits forks. Candidates are OpenAI Agents Python, Microsoft AutoGen, and CrewAI. Forks will be labeled with their upstream project and never presented as original work; a fork alone does not count as a contribution.
 
 ## Contribution strategy
 
-Increase visible activity through substantive, reviewable work: README improvements, examples, tests, evaluation fixtures, documentation, issue triage, and small upstream pull requests. Profile repository commits and changes to personal projects count when they represent real maintenance or documentation work. No empty or content-free commits will be used to manufacture an activity pattern.
+Increase visible activity through substantive, reviewable work: README improvements, examples, tests, evaluation fixtures, documentation, issue triage, and small upstream pull requests. Profile repository commits and changes to personal projects count when they represent real maintenance or documentation work. Empty or content-free commits will not be used to backfill dates or manufacture an activity pattern. The activity target is a modest, sustainable cadence that starts from the current date and reflects work that can be explained in the repository history.
 
 ## Validation
 
-- Render the README locally and inspect all links, badges, and images.
+- Render the README locally and inspect all links, badges, and images in light and dark themes, including mobile width.
 - Confirm the profile repository is public and named exactly after the account.
-- Check that wording distinguishes current agent work from prior autonomous-driving experience.
-- Verify that selected project links resolve and that activity widgets use stable URLs.
+- Check that all README copy is English-only, distinguishes current agent work from prior autonomous-driving experience, and contains no invented contact links or employment claims.
+- Verify that selected project links resolve, upstream attribution is visible, and activity widgets have readable fallback links.
+- Check the GitHub contribution date window after pushing real commits; do not backdate or fabricate prior activity.
