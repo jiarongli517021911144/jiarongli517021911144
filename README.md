@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jarry Li
+# Jarry
 
 `agent systems / context engineering / evaluation`
 
